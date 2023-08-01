@@ -1,2 +1,2 @@
 # Group4-NBA
-Final Projecy
+Final Project
