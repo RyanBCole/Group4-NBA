@@ -1,2 +1,32 @@
-# Group4-NBA
-Final Project
+# Final Project Group 4 - NBA Sports Betting 
+## Authors: Ryan Cole, Talon Mehta, Craig Hunter, Taylor Schaeffer and Cole Morrow.
+
+![image](https://github.com/RyanBCole/Group4-NBA/assets/124079708/f0777527-fc8d-40e8-94a6-509cc4d10c36)
+
+
+# Instructions 
+For Project 4, we worked as a group to solve, analyze, or visualize a concept using machine learning (ML) with the other technologies we’ve learned. Here are the specific requirements:
+
+1. Find a problem worth solving, analyzing, or visualizing.
+2. Use machine learning (ML) with the technologies we’ve learned.
+3. You must use Scikit-learn and/or another machine learning library.
+4. Your project must be powered by a dataset with at least 100 records.
+5. You must use at least two of the following:
+  - Python Pandas
+  - Python Matplotlib
+  - HTML/CSS/Bootstrap
+  - JavaScript Plotly
+  - JavaScript Leaflet
+  - SQL Database
+  - MongoDB Database
+  - Google Cloud SQL
+  - Amazon AWS
+  - Tableau
+
+For our project we chose to make a model to predict if . . .
+
+To fulfill requirement #5 we chose to use Python Pandas & Tableau. 
+
+### Resources 
+  - https://betworthy.com/betting-calculators/half-point
+
