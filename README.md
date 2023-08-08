@@ -27,6 +27,17 @@ For our project we chose to analyze sports betting and create a machine to help 
 
 To fulfill requirement #5 we chose to use Python Pandas & Tableau. 
 
+# Data
+Data for this project came from Kaggle dataset: 
+https://www.kaggle.com/datasets/nathanlauga/nba-games
+
+# Data Development 
+1. Add a column to give us total actual points combined per game
+2. Add columns that designated if the winning bet was an over or an under
+3. Ignored/dropped columns as necessary
+4. Implemented prediction models to see if our machine learning was profitable 
+
+
 ### Resources 
   - https://betworthy.com/betting-calculators/half-point
 
