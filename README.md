@@ -23,7 +23,7 @@ For Project 4, we worked as a group to solve, analyze, or visualize a concept us
   - Amazon AWS
   - Tableau
 
-For our project we chose to make a model to predict if . . .
+For our project we chose to analyze sports betting and create a machine to help accurately predict what bets would be best to place on certain games. In the dataset we used, we analyzed one specific season of the NBA (2017) But the goal is to use our model to be able to predict future NBA games.  This model could be very useful to people interested in sports betting and sports analytics.
 
 To fulfill requirement #5 we chose to use Python Pandas & Tableau. 
 
