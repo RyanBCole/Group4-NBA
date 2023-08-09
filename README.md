@@ -33,11 +33,14 @@ https://www.kaggle.com/datasets/nathanlauga/nba-games
 
 # Data Development 
 1. Add a column to give us total actual points combined per game
-2. Add columns that designated if the winning bet was an over or an under
-3. Ignored/dropped columns as necessary
-4. Implemented prediction models to see if our machine learning was profitable 
+2. Add columns for rolling averages for each individual team
+3. Add columns that designated if the winning bet was an over or an under
+4. Ignored/dropped columns as necessary
+5. Implemented prediction models to see if our machine learning was profitable 
 
 
 ### Resources 
   - https://betworthy.com/betting-calculators/half-point
-
+  - https://medium.com/@jordan.nish/using-machine-learning-to-beat-predict-nba-spreads-and-beat-vegas-b0ee695327a7
+  - https://www.cs.dartmouth.edu/~lorenzo/teaching/cs174/Archive/Winter2013/Projects/FinalReportWriteup/michelle.w.shu/
+    
