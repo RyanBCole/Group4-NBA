@@ -39,7 +39,7 @@ https://www.kaggle.com/datasets/nathanlauga/nba-games
 5. Implemented prediction models to see if our machine learning was profitable 
 
 # Main Folder
-Our main folder is named NBA Crit and houses all of our materials for our project. There is a models folder which holds our final models. A checkpoints folder which shows our progress along the way. A resources and data folder which showcases each data set and file we used. Finally, our presentation slides are here as well in their own foler.
+Our main folder is named NBA Crit and houses all of our materials for our project.  A checkpoints folder which shows our progress along the way and shows our final models. A resources and data folder which showcases each data set and file we used. Finally, our presentation slides are here as well in their own foler.
 
 # Tableau
 Our tableau story board for our project in in our Tableau folder. In this folder there is a text file with the link to the tableau public page with our story board. 
